@@ -10,3 +10,7 @@ This is my first challenge on Frontend Mentor. I am just getting warmed up for t
 
 1. HTML
 2. CSS (SASS)
+
+## Live link to the QR code component
+
+[https://eric-qr-code-component.netlify.app/](https://eric-qr-code-component.netlify.app/ "Frontend Mentor - QR code component").
