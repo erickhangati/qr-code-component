@@ -1,0 +1,8 @@
+body {
+  font-family: Outfit, sans-serif;
+  font-size: 1.5rem;
+
+  @include respond(phone) {
+    font-size: 1.4rem;
+  }
+}

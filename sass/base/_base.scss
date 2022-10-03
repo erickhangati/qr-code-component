@@ -1,0 +1,25 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+
+  @include respond(phone) {
+    font-size: 56.25%;
+  }
+}
+
+body {
+  box-sizing: border-box;
+  background-color: var(--light-gray);
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

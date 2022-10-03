@@ -5,6 +5,8 @@
 *.sketch
 *.fig
 node_modules/
+README-template*
+style-guide*
 
 # Avoid accidental XD upload if you convert the design file
 ###############################################
