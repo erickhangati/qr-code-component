@@ -9,7 +9,7 @@ This is my first challenge on Frontend Mentor. I am just getting warmed up for t
 ## Technologies Used
 
 1. HTML
-2. CSS (SASS)
+2. CSS (FLEXBOX, SASS)
 
 ## Live link to the QR code component
 
